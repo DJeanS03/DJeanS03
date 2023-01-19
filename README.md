@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/DJeanS03">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=DJeanS03&show_icons=true&theme=react"/>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJeanS03&layout=compact&langs_count=7&theme=react"/> 
+    <!--<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=DJeanS03&show_icons=true&theme=react"/>-->
+    <img src="https://github-readme-stats.vercel.app/api?username=DJeanS03&theme=react&show_icons=true"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=react"/>
+
   </a>
 </div> 
   
