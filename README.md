@@ -1,4 +1,7 @@
-### Olá a todo(a)s 👋
+### Olá a todo(a)s 👋 I'am Jean Victor
+
+- Atualmente estou estudando JavaScript e praticando como consumir uma API REST;
+- Busco uma oportunidade como desenvolverdor Front-end, a fim de colaborar com o crescimento da empresa e o meu desenvolvimento próprio. 
 
 <!--
 **DJeanS03/DJeanS03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +19,10 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: inline_block"><br>
-  <a href="https://github.com/DJeanS03"></a>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=DJeanS03&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJeanS03&layout=compact&langs_count=7&theme=midnight-purple"/> 
+  <a href="https://github.com/DJeanS03">
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=DJeanS03&show_icons=true&theme=react"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJeanS03&layout=compact&langs_count=7&theme=react"/> 
+  </a>
 </div> 
   
 <div style="display: inline_block"><br>
