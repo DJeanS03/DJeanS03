@@ -1,9 +1,9 @@
-## Olá a todo(a)s 👋 I'am Jean Victor
+##  👋 Hello everybody, I'am Jean Victor
 
 About me:
-- 📈  Minha meta é ser um fullstack developer;
-- 📖Atualmente estou estudando JavaScript e praticando como consumir uma API REST;
-- 💼Busco uma oportunidade como desenvolverdor Front-end, a fim de colaborar com o crescimento da empresa e o meu desenvolvimento próprio. 
+- 📈My goal is to be a full stack developer;
+- 📖I'm currently studying JavaScript and practicing how to consume a REST API;
+- 💼I'm looking for an opportunity as a Front-end developer, in order to collaborate with the company's growth and my own development. 
 
 <!--
 **DJeanS03/DJeanS03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,10 +29,10 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="JV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JV-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img align="center" alt="JV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JV-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="JV-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
 ##
@@ -42,9 +42,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jean-victor-7bb04519a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
+🚀 let's rock the future!
 
-![Snake animation](https://github.com/DJeanS03/DJeanS03/blob/output/github-contribution-grid-snake.svg)
 
-
- </div>
-  
