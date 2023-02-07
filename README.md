@@ -43,5 +43,3 @@ Here are some ideas to get you started:
  </div>
   
 🚀 let's rock the future!
-
-
