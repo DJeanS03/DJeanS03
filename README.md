@@ -15,7 +15,7 @@ About me:
   </a>
 </div> 
   
-## 🛠 &nbsp;Tech Stack <!-- ===== ICONS PROGRAME LANGUAGES ===== --> 
+## 🛠 &nbsp;Tech Stack  <!-- ===== ICONS PROGRAME LANGUAGES ===== --> 
 <p align="left">
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
