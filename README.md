@@ -6,40 +6,6 @@ About me:
 - 💬 Ask me about: **JavaScript, HTML, CSS, ReactJS, NodeJS**;
 - 💼I'm looking for an **opportunity** as a **Front-end developer**, in order to **collaborate** with the company's growth and my own development.
 
-const jeanVictor = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python"],
-    askMeAbout: ["web development", "mobile development", "cloud computing", "UI/UX", "design trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind CSS", "Material UI"],
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["React Native"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS EC2", "S3", "Lambda"],
-        },
-        databases: ["MySQL", "PostgreSQL", "SQLite"],
-        misc: ["REST APIs", "WebSockets"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic"],
-        devOps: ["Docker", "Serverless"],
-        databases: ["Relational", "NoSQL"],
-    },
-    currentFocus: "Creating innovative web and mobile solutions",
-    funFact: "I can cook while coding!"
-};
-
-
 ## ⚙️ &nbsp;GitHub Analytics <!-- ===== PROFILE GITHUB DETAILS ===== -->
 <div align="center"><br>
   <a href="https://github.com/DJeanS03">
