@@ -1,0 +1,20 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Executa diariamente à meia-noite (UTC)
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update WakaTime stats
+        uses: wakatime/action@v4
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
