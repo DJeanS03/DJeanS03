@@ -4,7 +4,7 @@
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlzZzJ3bjBnM3Vwc3VtenAzeXdpZm0zNTV5dGhvZ2V0MW1oem9ubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNwO33cDf7H60uqErv/giphy.webp" width="50"> A little more about me
 
-```javascript
+```json
 const jeanVictor = {
   language_spoken: ["pt_BR", "en_US"],
   code: ["JavaScript", "TypeScript", "Python"],
@@ -45,17 +45,17 @@ const jeanVictor = {
 };
 ```
 
-
 ---
 
 ## 💼 Professional Experience
 
 ### Development Intern at FJS (Acelera FJS)
-*August 2024 - Present | Salvador, Bahia, Brazil | Hybrid*
+
+_August 2024 - Present | Salvador, Bahia, Brazil | Hybrid_
 
 - **Form Creation in Fluig**: I develop and customize forms on the Fluig platform to optimize workflows and automate processes, resulting in increased efficiency and better usability.
 - **System Integrations**: I actively participate in internal system integration projects, enhancing interconnectivity and collaboration among tools, leading to greater operational agility.
-- **Process Analysis and Optimization**: I work closely with the team to identify improvement opportunities, proposing solutions that increase operational efficiency by X%.
+- **Process Analysis and Optimization**: I work closely with the team to identify improvement opportunities, proposing solutions that increase operational efficiency.
 - **Collaboration in Agile Projects**: I contribute to an agile environment by participating in sprints and continuous deliveries, always focusing on quality and customer satisfaction.
 
 **Technologies Used**: Fluig, JavaScript, HTML, CSS, Agile.
@@ -63,11 +63,12 @@ const jeanVictor = {
 ---
 
 ### Project Manager at InfoJr - Junior Computer Science Company at UFBA
-*August 2023 - Present | Salvador, Bahia, Brazil | Remote*
 
-- **Project Leadership**: I play a crucial role in delivering important milestones, ensuring the completion of complex projects on time and within budget, which has resulted in an increase in stakeholder satisfaction by Y%.
+_August 2023 - Present | Salvador, Bahia, Brazil | Remote_
+
+- **Project Leadership**: I play a crucial role in delivering important milestones, ensuring the completion of complex projects on time and within budget, which has resulted in increased stakeholder satisfaction.
 - **Team Coordination**: I lead and guide cross-functional teams, ensuring alignment with project goals and maximizing productivity.
-- **Strategic Planning**: I develop detailed plans, including timelines, resource allocation, and goal definitions, resulting in process optimization and cost reductions by Z%.
+- **Strategic Planning**: I develop detailed plans, including timelines, resource allocation, and goal definitions, resulting in process optimization and cost reductions.
 - **Implementation of Tailwind CSS**: I introduced Tailwind CSS in our projects, enhancing user experience and interface aesthetics, with positive feedback from users.
 
 **Technologies Used**: Tailwind CSS, JavaScript, HTML, CSS, Git, Scrum.
@@ -75,10 +76,11 @@ const jeanVictor = {
 ---
 
 ### Front-End Developer at InfoJr - Junior Computer Science Company at UFBA
-*May 2023 - Present | Salvador, Bahia, Brazil | Remote*
 
-- **Feature Development**: Responsible for creating and integrating new features in web and mobile applications using **React.js**, improving user experience by X%.
-- **Performance Optimization**: I identify and solve performance issues in applications, applying best programming practices to enhance efficiency by Y%.
+_May 2023 - Present | Salvador, Bahia, Brazil | Remote_
+
+- **Feature Development**: Responsible for creating and integrating new features in web and mobile applications using **React.js**, improving user experience.
+- **Performance Optimization**: I identify and solve performance issues in applications, applying best programming practices to enhance efficiency.
 - **Quality Code**: I produce well-structured and documented code, participating in code reviews and unit testing to ensure the quality of the final product.
 - **Production Support**: I provide support in production to quickly resolve bugs and issues, maintaining system integrity.
 
@@ -87,8 +89,9 @@ const jeanVictor = {
 <br>
 
 ## 📈 Achievements
-- **Increased Efficiency**: Contributed to an increase in efficiency by X% in development and integration processes.
-- **Customer Satisfaction**: Improved stakeholder satisfaction by Y% through timely and high-quality project deliveries.
+
+- **Increased Efficiency**: Contributed to an increase in efficiency in development and integration processes.
+- **Customer Satisfaction**: Improved stakeholder satisfaction through timely and high-quality project deliveries.
 
 <br>
 
@@ -101,13 +104,14 @@ const jeanVictor = {
    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DJeanS03&theme=react&show_icons=true" alt="Jean's stats"/>
    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJeanS03&langs_count=7&theme=react" alt="Jean's most languages"/>
   </a>
-</div> 
+</div>
 
  <br>
 
 ---
 
-## 🛠 &nbsp;Tech Stack  <!-- ===== ICONS PROGRAME LANGUAGES ===== --> 
+## 🛠 &nbsp;Tech Stack <!-- ===== ICONS PROGRAME LANGUAGES ===== -->
+
 <p align="left">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
@@ -136,11 +140,10 @@ const jeanVictor = {
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://jean-victor-portfolio.vercel.app" target="_blank">
- <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
+     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
   </a>
 </div>
 
   <br>
 
 > 🚀 Let's rock the future!
-
