@@ -4,7 +4,7 @@
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlzZzJ3bjBnM3Vwc3VtenAzeXdpZm0zNTV5dGhvZ2V0MW1oem9ubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNwO33cDf7H60uqErv/giphy.webp" width="50"> A little more about me
 
-```json
+```yaml
 const jeanVictor = {
   language_spoken: ["pt_BR", "en_US"],
   code: ["JavaScript", "TypeScript", "Python"],
