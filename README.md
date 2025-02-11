@@ -1,5 +1,21 @@
 ![Perfil](https://img.shields.io/badge/Status-Desenvolvedor%20Full%20Stack-brightgreen)
 
+## 💬&nbsp;Social Links <!-- ===== LINKS CONTACT ===== -->
+
+<div> 
+  <a href="mailto:jeamsillva3@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jean-victor200/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://jean-victor-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</div>
+
+<br>
+
 ## 👋 Hello everybody, I'am Jean Victor
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlzZzJ3bjBnM3Vwc3VtenAzeXdpZm0zNTV5dGhvZ2V0MW1oem9ubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNwO33cDf7H60uqErv/giphy.webp" width="50"> A little more about me
@@ -129,21 +145,5 @@ _May 2023 - Present | Salvador, Bahia, Brazil | Remote_
 </p>
 
 ---
-
-## 💬&nbsp;Social Links <!-- ===== LINKS CONTACT ===== -->
-
-<div> 
-  <a href="mailto:jeamsillva3@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/jean-victor200/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://jean-victor-portfolio.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-</div>
-
-  <br>
 
 > 🚀 Let's rock the future!
