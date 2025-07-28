@@ -28,8 +28,8 @@ const jeanVictor = {
     "web development",
     "mobile development",
     "cloud computing",
-    "UI/UX",
-    "design trends",
+    "clean architecture",
+    "accessibility (a11y)"
   ],
   technologies: {
     frontEnd: {
@@ -37,7 +37,7 @@ const jeanVictor = {
       css: ["Tailwind CSS", "Material UI"],
     },
     backEnd: {
-      js: ["Node.js", "Express"],
+      js: ["Node.js", NestJS, "Express"],
       python: ["Flask"],
     },
     mobileApp: {
@@ -53,10 +53,10 @@ const jeanVictor = {
   architecture: {
     frontEnd: ["SPA", "SSR"],
     backEnd: ["microservices", "monolithic"],
-    devOps: ["Docker", "Serverless"],
+    devOps: ["Docker", "Kubernetes", "Serverless"],
     databases: ["Relational", "NoSQL"],
   },
-  currentFocus: "Creating innovative web and mobile solutions",
+  currentFocus: "Explorando a integração de IA em aplicativos full-stack",
   funFact: "I can debug faster with a coffee in hand! ☕️",
 };
 ```
@@ -69,12 +69,13 @@ const jeanVictor = {
 
 _August 2024 - Present | Salvador, Bahia, Brazil | Hybrid_
 
-- **Form Creation in Fluig**: I develop and customize forms on the Fluig platform to optimize workflows and automate processes, resulting in increased efficiency and better usability.
-- **System Integrations**: I actively participate in internal system integration projects, enhancing interconnectivity and collaboration among tools, leading to greater operational agility.
-- **Process Analysis and Optimization**: I work closely with the team to identify improvement opportunities, proposing solutions that increase operational efficiency.
-- **Collaboration in Agile Projects**: I contribute to an agile environment by participating in sprints and continuous deliveries, always focusing on quality and customer satisfaction.
+- **Internal System Integrations**: I drive and collaborate on system integration projects, connecting legacy and modern platforms to ensure seamless data flow and operational efficiency across departments.
+- **Process Analysis and Optimization**: I partner with stakeholders to analyze business processes, identify bottlenecks, and propose scalable technical solutions that reduce overhead and improve decision-making speed.
+- **Strategic Collaboration in Agile Projects**: I contribute to cross-functional agile teams by participating in sprint planning, continuous delivery, and code reviews, always prioritizing clean architecture, user experience, and long-term maintainability.
+- **Technical Leadership and Mentorship**: I support team members by sharing best practices in full stack development, code quality, and DevOps processes, fostering a culture of technical excellence.
+- **Full Stack Development with Fluig**: I lead the design and implementation of end-to-end solutions on the Fluig platform, building custom forms and interfaces while integrating business logic to streamline and automate internal workflows.
 
-**Technologies Used**: Fluig, JavaScript, HTML, CSS, Agile.
+**Technologies Used**: Fluig (TOTVS), JavaScript (ES6+), HTML5, CSS3, REST APIs, Git, Agile (Scrum), legacy system integrations.
 
 ---
 
