@@ -18,6 +18,8 @@
 
 ## 👋 Hello everybody, I'am Jean Victor
 
+> Full-Stack Developer with experience in **Back-End, Front-End, and DevOps**, specialized in **Node.js, NestJS, React, Next.js, PostgreSQL, Docker, and Kubernetes**. Passionate about building scalable, secure, and high-impact solutions, always focused on **clean architecture, automation, and delivering excellent user experiences**.
+
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlzZzJ3bjBnM3Vwc3VtenAzeXdpZm0zNTV5dGhvZ2V0MW1oem9ubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNwO33cDf7H60uqErv/giphy.webp" width="50"> A little more about me
 
 ```yaml
@@ -33,22 +35,22 @@ const jeanVictor = {
   ],
   technologies: {
     frontEnd: {
-      js: ["React", "Next.js"],
+      ts: ["React", "Next.js"],
       css: ["Tailwind CSS", "Material UI"],
     },
     backEnd: {
-      js: ["Node.js", NestJS, "Express"],
+      ts: ["Node.js", NestJS, "Express"],
       python: ["Flask"],
     },
     mobileApp: {
       crossPlatform: ["React Native"],
     },
-    devOps: ["Docker", "CI/CD", "GitHub Actions"],
+    devOps: ["Docker", "Kubernetes", "CI/CD", "GitHub Actions"],
     cloudServices: {
       aws: ["AWS EC2", "S3", "Lambda"],
     },
     databases: ["MySQL", "PostgreSQL", "SQLite"],
-    misc: ["REST APIs", "WebSockets"],
+    misc: ["REST APIs", "GraphQL", "WebSockets"]
   },
   architecture: {
     frontEnd: ["SPA", "SSR"],
@@ -111,6 +113,16 @@ _May 2023 - Present | Salvador, Bahia, Brazil | Remote_
 - **Customer Satisfaction**: Improved stakeholder satisfaction through timely and high-quality project deliveries.
 
 <br>
+
+---
+
+## 🚀 Featured Project
+
+**Scientific Research – KubeRNP Project (UFBA/RNP)**  
+
+- Developed modules and libraries to simplify **Kubernetes** usage in academic environments.  
+- Built a **Digital Twin** proof of concept with **ContainerLab** to simulate real metropolitan network topologies.  
+- Implemented **REST APIs** and integrations with **testbeds**, raising the project’s **Technology Readiness Level (TRL)**.  
 
 ---
 
